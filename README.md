@@ -50,5 +50,5 @@ The project utilizes a dataset containing the following key attributes:
 
 ## 🤝 Credits
 * **Dataset:** [https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset]
-* **Inspiration:** Dashboard layout and functionality inspired by *The Developer* on YouTube.
+
 
