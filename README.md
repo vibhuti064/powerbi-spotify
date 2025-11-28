@@ -1,6 +1,6 @@
 # 🎵 Spotify Data Analysis Dashboard
 
-![Dashboard Screenshot](C:\Users\vibhu\OneDrive\Pictures\Screenshots\Screenshot 2025-11-28 210625.png)
+![Dashboard Screenshot](Screenshot 2025-11-28 210625.png)
 ## 📌 Project Overview
 This Power BI project provides an interactive and visual analysis of Spotify music data. The dashboard allows users to explore trending songs, artist popularity, and album characteristics through a dynamic user interface designed to mimic the aesthetic of the Spotify application.
 
